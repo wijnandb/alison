@@ -926,7 +926,7 @@ figure.effect-bubba:hover p {
 	height: 0px;
 	width: 0%;
 	top: 0;
-	z-index: 10000;
+	z-index: 1000;
 }
 
 .cbp-qtrotator blockquote {
