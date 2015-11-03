@@ -394,7 +394,7 @@ textarea.form-control {
 }
 
 /* ---------------------------------------------- /*
- * Servise
+ * Service
 /* ---------------------------------------------- */
 
 .iconbox {
@@ -880,10 +880,10 @@ figure.effect-bubba:hover p {
 /*-----------------------*/
 
 .cbp-qtrotator {
-	position: relative;
+	position: absolute;
 	margin: 3em auto 0em auto;
-	max-width: 90%;
-	width: 90%;
+	max-width: 70%;
+	width: 70%;
 }
 
 .cbp-qtrotator .cbp-qtcontent {
@@ -922,7 +922,7 @@ figure.effect-bubba:hover p {
 
 .cbp-qtprogress {
 	position: absolute;
-	background: #FF5252;
+	background: #FFF;
 	height: 1px;
 	width: 0%;
 	top: 0;
@@ -938,7 +938,7 @@ figure.effect-bubba:hover p {
 
 .cbp-qtrotator blockquote p {
 	font-size: 2em;
-	color: #888;
+	color: #FFF;
 	font-weight: 300;
 	margin: 0.4em 0 1em;
 }
